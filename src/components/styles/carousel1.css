@@ -1,0 +1,47 @@
+
+.carousel-item{
+    background-color: rgb(200,222,245);
+}
+
+.carousel-indicators li {
+    background-color: rgb(255,203,4);
+}
+
+.carousel-indicators .active{
+    background-color: rgb(237,28,36);
+}
+
+.auto-center{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.newyear{
+    background-color: rgb(39,39,54);
+}
+
+.carousel{
+    margin-top: 2em;
+}
+
+.epayco{
+    background-color: rgb(252,89,7);
+}
+
+h1{
+    
+    text-shadow: black 2px 2px 0px;
+    text-decoration-line: underline;
+}
+h1,h4,p{
+    color: rgb(48,88,147);
+}
+
+.newyear h1{
+    color: rgb(237,221,160);
+}
+.epayco h1, .newyear h4, .newyear p{
+    color: white;
+    text-shadow: none;
+    text-decoration-line: none;
+}

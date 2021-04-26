@@ -1,0 +1,10 @@
+.usTitle{
+    color: rgb(237,28,36);
+    font-size: 2em;
+    font-weight: bold;
+    border-bottom: 5px solid rgb(237,28,36);
+}
+
+.usDescription{
+    font-size: 1.5em;
+}
